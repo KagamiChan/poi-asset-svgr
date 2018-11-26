@@ -1,0 +1,30 @@
+{
+  "name": "poi-asset-svgr",
+  "version": "1.0.0",
+  "description": "Poi's SVG icon in React functional component form",
+  "main": "index.js",
+  "repository": "git@github.com:KagamiChan/poi-asset-svgr.git",
+  "author": "Kagami <moe.pascal@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.1.6",
+    "@svgr/core": "^4.1.0",
+    "@svgr/plugin-prettier": "^4.0.3",
+    "@svgr/plugin-svgo": "^4.0.3",
+    "babel-eslint": "^10.0.1",
+    "bluebird": "^3.5.3",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.0",
+    "fs-extra": "^7.0.1",
+    "glob": "^7.1.3",
+    "lodash": "^4.17.11",
+    "prettier": "^1.15.2"
+  }
+}
